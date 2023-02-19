@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #f8fafc;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.header {
+  color: #000000;
+  font-size: 32px;
+  font-family: 'Roboto';
+}
+.text-container {
+  display: flex;
+  margin: 10px;
+  padding: 20px;
+}
+.para {
+  color: #323f4b;
+  margin-left: 20px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.option-text {
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+  width: 100px;
+}
+.county-para {
+  margin-left: 30px;
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.select-text {
+  color: #000000;
+  font-weight: bold;
+  font-family: 'Roboto';
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border: 2px solid #cbd2d9;
+  border-radius: 10px;
+}
